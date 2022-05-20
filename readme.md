@@ -52,10 +52,10 @@ example:
 Server
 
 ~~~
-INFO 12372 --- [           main] o.example.hessian.server.HessianServer   : Started HessianServer in 0.726 seconds (JVM running for 1.323)
-INFO 12372 --- [nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-INFO 12372 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-INFO 12372 --- [nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+o.example.hessian.server.HessianServer   : Started HessianServer in 0.726 seconds (JVM running for 1.323)
+o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
 ~~~
 
 Client
